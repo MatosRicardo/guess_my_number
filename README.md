@@ -33,5 +33,5 @@ Divirta-se jogando! 🎯😃
 
 ---
 
-*Este projeto foi desenvolvido com base no curso ministrado por [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) na Udemy.*
+*Este projeto foi desenvolvido com base no curso ministrado por [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/).*
 
